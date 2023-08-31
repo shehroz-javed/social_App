@@ -1,0 +1,11 @@
+account/__pycache__
+social_app/__pycache__
+friend_request/__pycache__
+post/__pycache__
+db.sqlite3
+
+account/migrations/__pycache__
+friend_request/migrations/__pycache__
+post/migrations/__pycache__
+
+media
